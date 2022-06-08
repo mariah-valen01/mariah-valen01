@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--
-##My name is mariah
+## My name is mariah
 **mariah-valen01/mariah-valen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some things about me:
+## Here are some things about me:
 
 -i love to go on walks my friends and familly.
 - i love to play/practice my guitar.
